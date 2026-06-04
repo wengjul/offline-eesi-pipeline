@@ -1,6 +1,6 @@
 # Offline Extractive Electrospray Mass Spectrometry data analysis pipeline
 
-Zenodo DOI: https://doi.org/10.5281/zenodo.20530817
+Zenodo DOI: https://doi.org/10.5281/zenodo.20542289
 
 
 Code repository accompanying:
@@ -104,7 +104,7 @@ Julian Weng et al. (2026)
 
 and the repository DOI, linked to Zenodo:
 
-DOI: https://doi.org/10.5281/zenodo.20530817
+DOI: https://doi.org/10.5281/zenodo.20542289
 
 ---
 
