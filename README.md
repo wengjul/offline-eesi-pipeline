@@ -1,4 +1,4 @@
-# Offline Extractive Electrospray Mass Spectrometry data analysis pipeline
+# Offline Extractive Electrospray Ionization Mass Spectrometry data analysis pipeline
 
 Zenodo DOI: https://doi.org/10.5281/zenodo.20542289
 
@@ -25,7 +25,7 @@ Paul Scherrer Institute (PSI)
 ## Overview
 
 This repository contains Python workflows for processing and analyzing
-offline Extractive Electrospray Mass Spectrometry (EESI-MS) measurements, as used in the manuscript.
+offline Extractive Electrospray Ionization Mass Spectrometry (EESI-MS) measurements, as used in the manuscript.
 The following analysis part is covered: from fitted HR EESI data (Tofware output) until aggregated scaled relative ion intensity time series, including QC steps. 
 For details, refer to the SI of the manuscript.
 
